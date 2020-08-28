@@ -1,0 +1,1 @@
+export DATABASE_URL = "postgres://{}:{}@{}/{}".format('postgres', 'r1n2m3y4', 'localhost:5432', 'heroku_sample')
